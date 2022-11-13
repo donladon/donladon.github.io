@@ -24,7 +24,7 @@ navigation:
     url: /
 
 # Pagination
-paginate: 8
+paginate: 5
 
 excerpt_separator: <!-- more -->
 
